@@ -13,5 +13,5 @@ So if you see a kickstarter or a project that you bought, will received, and tha
 Feel free to add it in the issues of this repository:    
 https://github.com/EloiStree/Search_KickstarterAndSmallBusiness/issues    
 
-Ping me on Discord for more information:    
+Ping me on Discord if you need to talk about it:    
 https://eloi.page.link/discord    
