@@ -14,4 +14,4 @@ Feel free to add it in the issues of this repository:
 https://github.com/EloiStree/Search_KickstarterAndSmallBusiness/issues    
 
 Ping me on Discord for more information:    
-eloi.page.link/discord    
+https://eloi.page.link/discord    
